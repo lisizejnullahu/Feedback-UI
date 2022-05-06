@@ -38,5 +38,4 @@ function App() {
 
 export default App;
 
-//chapter 6 vid 7
-//test tu rujt github
+//chapter 7
