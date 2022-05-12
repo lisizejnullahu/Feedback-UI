@@ -16,7 +16,7 @@ export const FeedbackProvider = ({ children }) => {
     fetchFeedback();
   }, []);
 
-  // Fetch feedback
+  // Fetch feedback with fetch API
   /**
    * When the component mounts, fetch the feedback data from the server and set the state of the
    * feedback and isLoading variables.
